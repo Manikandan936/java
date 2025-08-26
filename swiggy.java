@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-class swiggy
+class first_project
 {
 	
 	static Scanner scan = new Scanner(System.in);

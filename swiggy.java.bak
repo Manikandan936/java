@@ -52,7 +52,7 @@ class swiggy
 				System.out.print("Enter Your Password :");
 				String reg_pass = scan.nextLine();
 				
-				if (reg_pass==pass)
+				if (reg_pass.equals(pass))
 				{
 					
 					System.out.println("*_|.......Login Successfull......|_*");
